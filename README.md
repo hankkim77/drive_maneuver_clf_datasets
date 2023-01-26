@@ -4,6 +4,7 @@ DATASETS collection
 
 1. target dataset 
   vehicle inertial sensor data with 10Hz sampling rate 
+  by "3SECONDZ" 
   original / added candidate feature / added maneuver as label 
   
 2. extra dataset 
